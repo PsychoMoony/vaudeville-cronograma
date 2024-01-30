@@ -1,0 +1,8 @@
+@media (max-width: 1250px) {
+    section  {
+        flex-direction: column;
+    }
+    main img {
+        width: 100%;
+    }
+}
